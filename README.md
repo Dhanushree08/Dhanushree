@@ -2,7 +2,7 @@
 
 🎓 M.Tech – Data Science & AI @ PES University, Bangalore (2024–2026)  
 💻 B.E – Computer Science & Engineering,  Bangalore (2014–2018)  
-🤖 Passionate about Data Science, Machine Learning & AI  , Gen AI
+🤖 Passionate about Data Science, Machine Learning & AI , Gen AI
 🌱 Currently exploring AI/ML, Deep Learning and Generative AI
 
 ---
